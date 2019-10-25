@@ -1463,6 +1463,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
+  margin-left: 140px;
 }
 
 #footer .footer-top .footer-links ul {
@@ -1496,6 +1497,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+  margin-left: 140px;
 }
 
 #footer .footer-top .footer-contact p {
