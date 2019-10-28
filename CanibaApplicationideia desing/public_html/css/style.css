@@ -918,7 +918,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #venue .venue-info:before {
   content: "";
-  background: rgba(13, 20, 41, 0.8);
+  background: #f8224966;
   position: absolute;
   bottom: 0;
   top: 0;
